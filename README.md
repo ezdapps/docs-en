@@ -1,1 +1,1 @@
-https://genesiskernel.readthedocs.io
+Documentation for GenesisCommunity blockchain platform.
